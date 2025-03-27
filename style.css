@@ -17,6 +17,7 @@ body {
   width: 400px;
   padding: 20px;
   border-radius: 20px;
+  margin: 0 10px;
 }
 .search-box {
   display: flex;
